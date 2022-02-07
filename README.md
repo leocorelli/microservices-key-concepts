@@ -1,6 +1,8 @@
 [![Python application test with Github Actions](https://github.com/leocorelli/microservices-key-concepts/actions/workflows/main.yml/badge.svg)](https://github.com/leocorelli/microservices-key-concepts/actions/workflows/main.yml)
 [![Build and push Docker image to AWS ECR](https://github.com/leocorelli/microservices-key-concepts/actions/workflows/docker-image-build.yml/badge.svg)](https://github.com/leocorelli/microservices-key-concepts/actions/workflows/docker-image-build.yml)
 
+## Leo Corelli
+
 # microservices-key-concepts
 Key Concepts in Microservices
 
