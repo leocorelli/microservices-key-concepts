@@ -1,3 +1,5 @@
+[![Python application test with Github Actions](https://github.com/leocorelli/microservices-key-concepts/actions/workflows/main.yml/badge.svg)](https://github.com/leocorelli/microservices-key-concepts/actions/workflows/main.yml)
+
 # microservices-key-concepts
 Key Concepts in Microservices
 
