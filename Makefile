@@ -3,7 +3,7 @@ install:
 		pip install -r requirements.txt
 
 test:
-	python -m pytest -vv test_add.py
+	python -m pytest -vv test_logic.py
 
 format:
 	black *.py
