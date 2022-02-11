@@ -9,14 +9,14 @@ async def root():
     return {"message": "Hello"}
 
 @app.get("/add/{num1}/{num2}")
-async def add(num1: int, num2: int):
+async def adder(num1: int, num2: int):
     """Add two numbers together"""
 
     total = add(num1,num2)
     return {"total": total}
 
 @app.get("/sub/{num1}/{num2}")
-async def sub(num1: int, num2: int):
+async def subber(num1: int, num2: int):
     """Sub two numbers"""
 
     total = sub(num1,num2)
